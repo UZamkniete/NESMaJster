@@ -15,6 +15,7 @@ public class NESEMU {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+		//syf
             System.out.printf("Hello user!");
 // TODO code application logic here
     }
